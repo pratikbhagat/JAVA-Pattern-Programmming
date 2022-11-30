@@ -1,4 +1,4 @@
-#Java Pattern Programming </h1>
+#Java Pattern Programming
 
 Java pattern program enhances the coding skill, logic, and looping concepts. It is mostly asked in Java interview to check the logic and thinking of the programmer. We can print a Java pattern program in different designs. To learn the pattern program, we must have a deep knowledge of the Java loop, such as for loop do-while loop. In this module, we will learn how to print a pattern in Java.
 
