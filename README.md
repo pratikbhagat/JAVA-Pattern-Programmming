@@ -16,7 +16,7 @@ Java pattern program enhances the coding skill, logic, and looping concepts. It 
 Clone repository in directory.
 
 ```bash
-git clone 
+git clone https://github.com/pratikbhagat/JAVA-Pattern-Programmming.git
 ```
 
 ### Starting the application
